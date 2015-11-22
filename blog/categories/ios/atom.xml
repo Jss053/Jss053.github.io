@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | Jss_forever]]></title>
   <link href="http://jss053.github.io/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://jss053.github.io/"/>
-  <updated>2015-11-22T22:43:44+08:00</updated>
+  <updated>2015-11-22T23:24:21+08:00</updated>
   <id>http://jss053.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -18,7 +18,35 @@
     <link href="http://jss053.github.io/blog/2015/11/22/01-ocji-chu-shu-ju-lei-xing/"/>
     <updated>2015-11-22T22:39:45+08:00</updated>
     <id>http://jss053.github.io/blog/2015/11/22/01-ocji-chu-shu-ju-lei-xing</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<h3>一、 注释</h3>
+
+<p><strong>注释</strong>：用来说明在某段代码的作用，也可以用来说明某个类、某个方法的作用等等。</p>
+
+<p>OC 里边有<strong>两种</strong>注释方式：单行注释，多行注释。</p>
+
+<p><strong>单行注释</strong>：使用<code>//</code>双斜杠来表示，它只能够注释一行代码。</p>
+
+<p><strong>多行注释</strong>：使用<code>/* ... */</code>来表示，其中<code>/*</code>这个表示开始，而 <code>*/</code>表示结束。多行注释也是说，可以将多行代码注释掉。<font color=red>特别需要注意的是：多行注释不能够嵌套。</font></p>
+
+<pre><code>#import &lt;Foundation/Foundation.h&gt;
+int main(int argc, argv[]){
+    @autoreleasepool{
+        //这是一条输出语句（单行注释）
+        NSLog(@"I am is Jss.");
+
+        /*
+        下面将会输出李白的《静夜思》
+        （多行注释）
+        */
+        NSLog(@"床前明月光");
+        NSLog(@"疑是地上霜");
+        NSLog(@"举头望明月");
+        NSLog(@"低头思故乡");
+    }
+}
+</code></pre>
+
+<blockquote><p>注释除了能够进行对代码的说明，它还能够帮助我们调试程序，当我们觉得某一句代码，或者某一块代码有问题的话，可以使用注释进行注释，在运行程序来查找相关问题。</p></blockquote>
 ]]></content>
   </entry>
   
