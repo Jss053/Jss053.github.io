@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://jss053.github.io/blog/2015/11/22/01-ocji-chu-shu-ju-lei-xing/</loc>
+    <lastmod>2015-11-22T22:39:45+08:00</lastmod>
+  </url>
+  <url>
     <loc>http://jss053.github.io/blog/archives/</loc>
   </url>
   <url>
@@ -11,5 +15,8 @@
   </url>
   <url>
     <loc>http://jss053.github.io/life/</loc>
+  </url>
+  <url>
+    <loc>http://jss053.github.io/blog/categories/ios/</loc>
   </url>
 </urlset>
