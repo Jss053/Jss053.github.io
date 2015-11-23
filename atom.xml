@@ -4,7 +4,7 @@
   <title><![CDATA[Jss_forever]]></title>
   <link href="http://jss053.github.io/atom.xml" rel="self"/>
   <link href="http://jss053.github.io/"/>
-  <updated>2015-11-22T23:24:21+08:00</updated>
+  <updated>2015-11-23T17:32:44+08:00</updated>
   <id>http://jss053.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -18,7 +18,7 @@
     <link href="http://jss053.github.io/blog/2015/11/22/01-ocji-chu-shu-ju-lei-xing/"/>
     <updated>2015-11-22T22:39:45+08:00</updated>
     <id>http://jss053.github.io/blog/2015/11/22/01-ocji-chu-shu-ju-lei-xing</id>
-    <content type="html"><![CDATA[<h3>一、 注释</h3>
+    <content type="html"><![CDATA[<h3>一、注释</h3>
 
 <p><strong>注释</strong>：用来说明在某段代码的作用，也可以用来说明某个类、某个方法的作用等等。</p>
 
@@ -64,6 +64,8 @@
 
 
 <blockquote><p>注释除了能够进行对代码的说明，它还能够帮助我们调试程序，当我们觉得某一句代码，或者某一块代码有问题的话，可以使用注释进行注释，在运行程序来查找相关问题。</p></blockquote>
+
+<h3>二、数据类型</h3>
 ]]></content>
   </entry>
   
